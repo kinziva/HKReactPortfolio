@@ -1,5 +1,5 @@
 let resumeData = {
-    "imagebaseurl":"https://github.com/kinziva",
+    "imagebaseurl":"https://github.com/kinziva/HKReactPortfolio",
     "name": "Hanna Keskin",
     "role": "Sofware Developer Engineer in Test and FrontEnd Developer",
     "linkedinId":"Hanna Keskin",
