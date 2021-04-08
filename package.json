@@ -2,7 +2,7 @@
   "name": "resume",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kinziva.github.io/HKReactPortfolio",
+  "homepage": "https://kinziva.github.io/HKReactPortfolio/",
   "dependencies": {
     "gh-pages": "^3.1.0",
     "react": "^16.6.0",

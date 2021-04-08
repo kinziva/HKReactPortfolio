@@ -36,15 +36,7 @@ Updated portfolio using React that use some of the latest technologies.
 * Mobile-first design
 
 
-### React
 
-* A `Header` component that appears on multiple pages
-
-* A single `Project` component that will be used multiple times on a single page 
-
-* Navigation with React Router, dynamic rendering, or another third part router
-
-* A `Footer` component that appears on multiple pages
 
 * **Important**: If you use React Router, you will **NOT** be able to use the `<BrowserRouter>` component on GitHub Pages. Read the [GitHub note on client-side routing](https://create-react-app.dev/docs/deployment/#notes-on-client-side-routing) and the [React Router documentation on HashRouter](https://reactrouter.com/web/api/HashRouter) for more information.
 
@@ -74,6 +66,6 @@ Contact with me with any questions : [GitHub](https://github.com/kinziva)<br />
 
 ## Urls
 * Repository [Repository URL ](https://github.com/kinziva/HKReactPortfolio)
-* GithubPages [Repository URL ](https://agile-taiga-28351.herokuapp.com/)
+* GithubPages [Repository URL ](https://kinziva.github.io/HKReactPortfolio/)
 
 
