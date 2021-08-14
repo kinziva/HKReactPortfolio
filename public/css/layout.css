@@ -325,6 +325,7 @@ ul#nav li.current a { color: #ec2b8c; }
 }
 
 .photoshop {
+   color: white;
   	width: 60%;
   	-moz-animation: photoshop 2s ease;
   	-webkit-animation: photoshop 2s ease;
