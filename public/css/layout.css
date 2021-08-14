@@ -351,13 +351,13 @@ ul#nav li.current a { color: #ec2b8c; }
 }
 .java {
    width: 80%;
-   -moz-animation: html5 2s ease;
-   -webkit-animation: html5 2s ease;
+   -moz-animation: java 2s ease;
+   -webkit-animation: java 2s ease;
 }
 .javascript {
    width: 50%;
-   -moz-animation: html5 2s ease;
-   -webkit-animation: html5 2s ease;
+   -moz-animation: javascript 2s ease;
+   -webkit-animation: javascript 2s ease;
 }
 .jquery {
   	width: 50%;
@@ -367,24 +367,24 @@ ul#nav li.current a { color: #ec2b8c; }
 
 .selenium {
    width: 85%;
-   -moz-animation: html5 2s ease;
-   -webkit-animation: html5 2s ease;
+   -moz-animation: selenium 2s ease;
+   -webkit-animation: selenium 2s ease;
 }
 
 .cucumber {
    width: 95%;
-   -moz-animation: html5 2s ease;
-   -webkit-animation: html5 2s ease;
+   -moz-animation: cucumber 2s ease;
+   -webkit-animation: cucumber 2s ease;
 }
 .webdriverio {
    width: 55%;
-   -moz-animation: html5 2s ease;
-   -webkit-animation: html5 2s ease;
+   -moz-animation: webdriverio 2s ease;
+   -webkit-animation: webdriverio 2s ease;
 }
 .aws {
    width: 55%;
-   -moz-animation: html5 2s ease;
-   -webkit-animation: html5 2s ease;
+   -moz-animation: aws 2s ease;
+   -webkit-animation: aws 2s ease;
 }
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }
