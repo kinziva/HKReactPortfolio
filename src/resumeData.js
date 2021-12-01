@@ -20,7 +20,7 @@ let resumeData = {
         },
         {
           "name":"resume",
-          "url":"resume/HannaHKeskin_ResumeOnline.pdf",
+          "url":"",
           "className":"fa fa-file"
         }
       ],
